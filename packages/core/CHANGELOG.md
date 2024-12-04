@@ -1,5 +1,19 @@
 # internal-platform
 
+## 3.3.5
+
+### Patch Changes
+
+- Fix an issue that caused errors when using realtime with a run that is cancelled ([#1533](https://github.com/triggerdotdev/trigger.dev/pull/1533))
+
+## 3.3.4
+
+## 3.3.3
+
+### Patch Changes
+
+- Multiple streams can now be consumed simultaneously ([#1522](https://github.com/triggerdotdev/trigger.dev/pull/1522))
+
 ## 3.3.2
 
 ## 3.3.1

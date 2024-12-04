@@ -1,5 +1,27 @@
 # @trigger.dev/react-hooks
 
+## 3.3.5
+
+### Patch Changes
+
+- Updated dependencies:
+  - `@trigger.dev/core@3.3.5`
+
+## 3.3.4
+
+### Patch Changes
+
+- Add trigger options to all trigger hooks ([#1528](https://github.com/triggerdotdev/trigger.dev/pull/1528))
+- Updated dependencies:
+  - `@trigger.dev/core@3.3.4`
+
+## 3.3.3
+
+### Patch Changes
+
+- Updated dependencies:
+  - `@trigger.dev/core@3.3.3`
+
 ## 3.3.2
 
 ### Patch Changes
